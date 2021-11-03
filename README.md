@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE SHOPPe
 
 Hi! My name is **Rohan**, I have created this website Shoppe, which is an e-commerce personal project.
 
